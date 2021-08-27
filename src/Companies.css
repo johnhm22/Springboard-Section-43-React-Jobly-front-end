@@ -1,0 +1,23 @@
+.card {
+    border: 1px solid rgba(0, 0, 0, 0.308);
+    box-shadow: 0 8px 6px -6px black;
+    width: 50%;
+    text-align: center;
+    margin: 2rem;
+    background-color:white;
+    
+};
+
+.card a {
+    color: black;
+}
+
+.card-body :hover {
+    color: rgb(10, 10, 163);
+}
+
+body{
+    background-color: rgba(227, 237, 238, 0.295);
+}
+
+
